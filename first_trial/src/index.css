@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+header{
+  padding: 20px;
+  background-color: bisque;
+  display: flex;
+  justify-content: space-between;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+nav{
+  display: flex;
+  gap: 10px;
+}
+
+a:hover{
+  color: rgb(99, 59, 6);
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+main{
+
+  background-color: rgb(245, 245, 245);
+  padding-top: 80px;
+  text-align: center;
+  height: 80.5vh;
+
+}
+
+footer{
+  text-align: center;
+  padding-top: 7px;
+  background-color:bisque;
+  height: 30px;
+}
+
+h2{
+  padding-bottom: 20px;
+  font-size: 50px;
+}
