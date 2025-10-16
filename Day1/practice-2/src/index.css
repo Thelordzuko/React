@@ -1,0 +1,27 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.main{
+  display: flex;
+  gap: 50px;
+}
+
+body {
+  
+  margin: 0;
+  display: flex;
+  place-items: center;
+  color: #5b4602;
+  background-color: #ede9dd;
+}
+
+h1 {
+  font-size: 3.2em;
+}
+
+img{
+  height: 300px;
+  width: 230px;
+  border-radius: 30px;
+}
