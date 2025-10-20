@@ -1,8 +1,8 @@
 function Footer() {
     return (
-        <header>
+        <footer>
         <p>© 2025 My App</p>
-        </header>
+        </footer>
     );
 }
 

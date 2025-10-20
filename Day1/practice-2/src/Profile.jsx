@@ -1,8 +1,10 @@
+import myImage from './assets/picture.jpg';
+
 function Profile() {
     return(
         <div class="main">
         <div>
-            <img src="https://i.pinimg.com/736x/67/ee/a3/67eea3e8aa7997ccc6f136d87dd6edf9.jpg" alt="image" /> 
+            <img src={myImage} alt="Oluwaseyi Alebiosu" />
             <h2>Oluwaseyi Alebiosu</h2>
             <h3>Student Developer</h3>
             <p>As an AI developer, I aim to use my skills to forge a new and innovative path in the field of tech.</p>
