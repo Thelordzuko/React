@@ -1,0 +1,42 @@
+* #root {
+  margin: 0 auto;
+  max-width: 400px;
+  padding: 20px;
+  text-align: center;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.main {
+  background-color: antiquewhite;
+}
+
+.cont {
+  padding: 30px;
+}
+
+.increment{
+  background-color: rgb(207, 8, 18);
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.decrement{
+  background-color: rgb(7, 138, 7);
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.reset{
+  background-color: rgb(165, 96, 13);
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.functions{
+  padding: 10px;
+  
+}
+
