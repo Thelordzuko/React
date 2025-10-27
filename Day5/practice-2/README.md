@@ -1,16 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![](https://private-user-images.githubusercontent.com/224950477/506003270-ae64e342-af43-42e6-a876-e077c2ed79b6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE1Njg4MDYsIm5iZiI6MTc2MTU2ODUwNiwicGF0aCI6Ii8yMjQ5NTA0NzcvNTA2MDAzMjcwLWFlNjRlMzQyLWFmNDMtNDJlNi1hODc2LWUwNzdjMmVkNzliNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyN1QxMjM1MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZjZjMjgxNzlhYjA3NzcwNTQxMWYwYTYxMzFmMGZjZTFmYjNmODQ5YjUxY2FmNWNkMjQ1ZTY3YjA1M2M0YmM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dP-a2DQ24hXAJGH-Of0yCdiPy_3spBH20cdQta59GqY)
+![](https://private-user-images.githubusercontent.com/224950477/506003551-c8534f63-6042-47a6-917d-4f9f70ca8a6c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE1Njg4NTMsIm5iZiI6MTc2MTU2ODU1MywicGF0aCI6Ii8yMjQ5NTA0NzcvNTA2MDAzNTUxLWM4NTM0ZjYzLTYwNDItNDdhNi05MTdkLTRmOWY3MGNhOGE2Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyN1QxMjM1NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZGFhNzk3MzVkODlhMzMyOTM3ZTQzMjU1YjNiMzc4NzIzOTU5NzY3ZjA3OThiNTA4MmIyNzZhNjk1OWNkNDljJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VeCaT4oWHXk1b9AD57Vp9Gpx7xzdIyBLSwWUBKP8ZW0)

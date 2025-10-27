@@ -30,7 +30,7 @@ function StatesExplorer() {
 
   return (
     <div style={{ textAlign: "center", fontFamily: "sans-serif", marginTop: "30px" }}>
-      <h2>🇳🇬 Nigerian States</h2>
+      <h2>Nigerian States</h2>
 
       <div style={{ marginBottom: "10px" }}>
         <label>
